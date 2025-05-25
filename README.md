@@ -69,4 +69,4 @@ A passionate professional dedicated to leveraging data in roles such as Data Ana
 
 ## 🎉 Fact About Me
 I can predict the future... but only if it involves data and a good algorithm! 😄
-![image](https://github.com/user-attachments/assets/852caceb-2e3a-47f3-9d55-7a6319c3da58)
+
